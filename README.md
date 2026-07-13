@@ -185,6 +185,22 @@ These issues imply that OLS standard errors may be unreliable; robust HAC or boo
 
 ---
 
+## Project Structure
+
+```bash
+.
+├── 1_Regression-Diagnostics-Model Selection-and-Econometric-Analysis.ipynb
+├── 2_Stationarity_RegimeChanges__ Feature_Engineering.ipynb
+├── README.md
+└── reports
+    ├── 1_Regression-Diagnostics-Model Selection-and-Econometric-Analysis.pdf
+    └── 2_Stationarity_RegimeChanges__ Feature_Engineering.pdf
+
+1 directory, 5 files
+
+```
+---
+
 ## Future Work
 
 - **Outliers:** Explore more advanced robust estimators (e.g., MM‑estimation) and outlier‑robust PCA.
