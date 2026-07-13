@@ -13,7 +13,7 @@ This repository contains the complete code, data, and analysis for a comprehensi
 
 - **Regime Change Detection** – identifying structural breaks and Markov‑switching dynamics in Delta Airlines (DAL) stock returns.
 
-All analyses are implemented in **Python** (with some **R** for robustness checks) and include detailed visualisations, diagnostic tests, and economic interpretation.
+All analyses are implemented in **Python**  and include detailed visualisations, diagnostic tests, and economic interpretation.
 
 ## Table of Contents
 
