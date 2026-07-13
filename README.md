@@ -5,17 +5,29 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
+- [Project Overview](#project-overview)- 
 - [Topics Covered](#topics-covered)
   - [1. Outliers in Regression Models](#1-outliers-in-regression-models)
   - [2. Feature Extraction and PCA](#2-feature-extraction-and-pca)
   - [3. Cointegration and Error Correction Models](#3-cointegration-and-error-correction-models)
   - [4. Regime Change Detection](#4-regime-change-detection)
 - [Results Summary](#results-summary)
-- Project Structure
+- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Topics Covered](#topics-covered)
+  - [1. Outlier Sensitivity](#topic-1-outlier-sensitivity)
+  - [2. Feature Extraction and PCA](#topic-2-feature-extraction-and-pca)
+  - [3. Cointegration and Error Correction](#topic-3-cointegration-and-error-correction)
+  - [4. Regime Change Detection](#topic-4-regime-change-detection)
+- [Summary of Key Results](#summary-of-key-results)
+- [Project Structure](#project-structure)   <!-- add section if desired -->
+- [Contributing](#contributing)             <!-- add section if desired -->
+- [License](#license)                       <!-- add section if desired -->
 
 ## Project Overview
 
