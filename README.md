@@ -2,20 +2,6 @@
 
 
 
-
-## Table of Contents
-
-- [Project Overview](#project-overview)- 
-- [Topics Covered](#topics-covered)
-  - [1. Outliers in Regression Models](#1-outliers-in-regression-models)
-  - [2. Feature Extraction and PCA](#2-feature-extraction-and-pca)
-  - [3. Cointegration and Error Correction Models](#3-cointegration-and-error-correction-models)
-  - [4. Regime Change Detection](#4-regime-change-detection)
-- [Results Summary](#results-summary)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
