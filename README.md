@@ -1,7 +1,7 @@
 # Financial-Econometrics-Regression-and-Time-Series-Modeling
 
 
-# 📈 Empirical Analysis of Outliers, Feature Extraction, Cointegration, and Regime Changes
+## 📈 Empirical Analysis of Outliers, Feature Extraction, Cointegration, and Regime Changes
 
 This repository contains the complete code, data, and analysis for a comprehensive financial econometrics project. The work is structured around four key topics:
 
