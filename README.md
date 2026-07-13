@@ -12,8 +12,8 @@
   - [4. Regime Change Detection](#topic-4-regime-change-detection)
 - [Summary of Key Results](#summary-of-key-results)
 - [Project Structure](#project-structure)   <!-- add section if desired -->
-- [Contributing](#contributing)             <!-- add section if desired -->
-- [License](#license)                       <!-- add section if desired -->
+- [Future Work](#future-work)             <!-- add section if desired -->
+- [References](#references)                       <!-- add section if desired -->
 
 ## Project Overview
 
