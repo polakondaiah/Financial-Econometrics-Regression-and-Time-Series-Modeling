@@ -218,9 +218,5 @@ These issues imply that OLS standard errors may be unreliable; robust HAC or boo
 
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/financial-econometrics-project.git
-cd financial-econometrics-project
 
-# Install required packages
-pip install -r requirements.txt
+```
