@@ -1,8 +1,19 @@
 # Financial-Econometrics-Regression-and-Time-Series-Modeling
 
 
+# 📈 Empirical Analysis of Outliers, Feature Extraction, Cointegration, and Regime Changes
 
-This repository contains code and analysis for a comprehensive financial econometrics project covering multiple key topics: outlier detection and robust estimation, feature extraction with Principal Component Analysis (PCA), cointegration and error correction modeling, and regime change detection with Markov-switching models.
+This repository contains the complete code, data, and analysis for a comprehensive financial econometrics project. The work is structured around four key topics:
+
+- **Sensitivity of OLS to Outliers** – demonstration of how extreme observations distort regression estimates, and robust alternatives.
+
+- **Feature Extraction and PCA** – engineering lagged returns and rolling statistics for GOOGL (2020–2025), followed by dimensionality reduction.
+
+- **Cointegration and Error Correction** – modeling the long‑run equilibrium between U.S. real GDP and personal consumption expenditures (PCE).
+
+- **Regime Change Detection** – identifying structural breaks and Markov‑switching dynamics in Delta Airlines (DAL) stock returns.
+
+All analyses are implemented in **Python** (with some **R** for robustness checks) and include detailed visualisations, diagnostic tests, and economic interpretation.
 
 ## Table of Contents
 
